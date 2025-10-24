@@ -569,3 +569,24 @@ It uses sherpa-onnx's Python API for real-time speech recognition in ROS2 with R
 [kws-url]: https://k2-fsa.github.io/sherpa/onnx/kws/index.html
 [punct-url]: https://k2-fsa.github.io/sherpa/onnx/punctuation/index.html
 [se-url]: https://k2-fsa.github.io/sherpa/onnx/speech-enhancment/index.html
+
+```
+# ONNX官方网站
+```
+https://k2-fsa.github.io/sherpa/onnx/
+```
+# 官方asr-models
+```
+https://github.com/k2-fsa/sherpa-onnx/releases/tag/asr-models
+```
+
+# 官方tts-models
+```
+https://github.com/k2-fsa/sherpa-onnx/releases/tag/tts-models
+```
+
+# APKS下载地址
+```
+https://k2-fsa.github.io/sherpa/onnx/tts/apk.html
+```
+
