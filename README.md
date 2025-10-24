@@ -588,5 +588,7 @@ https://github.com/k2-fsa/sherpa-onnx/releases/tag/tts-models
 # APKS下载地址
 ```
 https://k2-fsa.github.io/sherpa/onnx/tts/apk.html
+
+https://k2-fsa.github.io/sherpa/onnx/android/apk-simulate-streaming-asr.html
 ```
 
